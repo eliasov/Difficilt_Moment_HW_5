@@ -1,4 +1,4 @@
-﻿#include <algorithm>
+#include <algorithm>
 #include <deque>
 #include <stdlib.h>
 #include <iostream>
@@ -7,6 +7,16 @@
 #include <set>
 #include <string>
 #include <vector>
+
+//Author Ilya Ovsyannikov
+
+//Task_1
+/*1. Create a template function that accepts start and end iterators
+sequence of words, and outputting to the console a list of unique words (if the word
+repeats more than 1 time, then it must be displayed once). showcase work
+functions by passing iterators of various types.*/
+
+
 
 using namespace std;
 //Template function that takes an iterator to the beginning and end of the list of words.
