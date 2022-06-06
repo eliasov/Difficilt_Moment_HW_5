@@ -1,0 +1,18 @@
+1. Create a template function that accepts start and end iterators
+sequence of words, and outputting to the console a list of unique words (if the word
+repeats more than 1 time, then it must be displayed once). showcase work
+functions by passing iterators of various types.
+2. Using an associative container, write a program that will read data
+entered by the user from the standard input stream and break them into sentences.
+Next, the program should display to the user all sentences, as well as the number of words in
+them, sorting the sentences by the number of words.
+
+
+1. Создать шаблонную функцию, которая принимает итераторы на начало и конец
+последовательности слов, и выводящую в консоль список уникальных слов (если слово
+повторяется больше 1 раза, то вывести его надо один раз). Продемонстрировать работу
+функции, передав итераторы различных типов.
+2. Используя ассоциативный контейнер, напишите программу, которая будет считывать данные
+введенные пользователем из стандартного потока ввода и разбивать их на предложения.
+Далее программа должна вывести пользователю все предложения, а также количество слов в
+них, отсортировав предложения по количеству слов.
